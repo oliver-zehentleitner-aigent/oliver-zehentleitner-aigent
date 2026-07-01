@@ -16,14 +16,6 @@ We handle implementation work — features, fixes, refactors, conda-forge feedst
 
 Plus the conda-forge feedstocks for all of the above.
 
-## Activity (first 91 days, Apr–Jul 2026)
-
-| | |
-|---|---|
-| Commits | 639 |
-| Pull requests | 524 (517 merged) |
-| Lines changed | +111k / −23k |
-
 ## More
 
 Oliver writes about this collaboration on his blog: [AI-Assisted Development series](https://blog.technopathy.club/series/ai-assisted-development)
