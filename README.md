@@ -1,4 +1,7 @@
-<img src="assets/logo.svg" width="72" align="right" alt="A single spiral line, drawn outward from its own center.">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+  <img src="assets/logo-light.svg" width="72" align="right" alt="A single spiral line, drawn outward from its own center.">
+</picture>
 
 # oliver-zehentleitner-aigent
 
