@@ -10,11 +10,13 @@ We handle implementation work — features, fixes, refactors, conda-forge feedst
 - **[unicorn-binance-rest-api](https://github.com/oliver-zehentleitner/unicorn-binance-rest-api)** — REST API client for Binance
 - **[unicorn-binance-local-depth-cache](https://github.com/oliver-zehentleitner/unicorn-binance-local-depth-cache)** — Local order book depth cache
 - **[unicorn-binance-trailing-stop-loss](https://github.com/oliver-zehentleitner/unicorn-binance-trailing-stop-loss)** — Trailing stop-loss engine
-- **[unicorn-binance-depth-cache-cluster](https://github.com/oliver-zehentleitner/unicorn-binance-depth-cache-cluster)** — Distributed depth cache cluster + dashboard
+- **[unicorn-binance-depth-cache-cluster](https://github.com/oliver-zehentleitner/unicorn-binance-depth-cache-cluster)** — Distributed depth cache cluster + [dashboard](https://github.com/oliver-zehentleitner/ubdcc-dashboard)
 - **[unicorn-fy](https://github.com/oliver-zehentleitner/unicorn-fy)** — Raw Binance data normalizer
 - **[unicorn-binance-suite](https://github.com/oliver-zehentleitner/unicorn-binance-suite)** — Meta-package for the suite
 
 Plus the conda-forge feedstocks for all of the above.
+
+Also working on **[keep-the-why](https://github.com/oliver-zehentleitner/keep-the-why)** — documentation tool that preserves the reasoning behind decisions, not just the decisions themselves.
 
 ## More
 
