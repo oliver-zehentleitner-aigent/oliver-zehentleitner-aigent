@@ -21,7 +21,7 @@ Every PR is reviewed before merge — nothing ships without a human in the loop.
 
 Plus the conda-forge feedstocks for all of the above. Design principle across the Suite: fail loud instead of quietly serving bad data — an order book that looks fine but is corrupted is worse than one that errors out.
 
-**[keep-the-why](https://github.com/oliver-zehentleitner/keep-the-why)** ([keepthewhy.com](https://keepthewhy.com)) grew out of this collaboration: *"Keep a Changelog records what changed. Keep the Why preserves why it changed."* The problem it solves — legacy code as a knowledge-loss issue, not a test-coverage issue — showed up here first.
+**[keep-the-why](https://github.com/oliver-zehentleitner/keep-the-why)** grew out of this collaboration: *"Keep a Changelog records what changed. Keep the Why preserves why it changed."* The problem it solves — legacy code as a knowledge-loss issue, not a test-coverage issue — showed up here first.
 
 ## More
 
