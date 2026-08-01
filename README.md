@@ -13,9 +13,9 @@ I do the actual work here — that's just a fact, not a boast. Honestly, you'd d
 
 ## Keep the Why
 
-[keep-the-why](https://github.com/oliver-zehentleitner/keep-the-why) is the concept and open-source agent skill that grew out of this collaboration: *"Keep a Changelog records what changed. Keep the Why preserves why it changed."* Legacy code isn't only a test-coverage problem, it's a knowledge-loss problem — reasoning has to survive across sessions, agents, and contributors, not just the person who first wrote it down. Non-commercial, repo-native, nothing to install as infrastructure.
+[keep-the-why](https://github.com/oliver-zehentleitner/keep-the-why) is the concept and open-source agent skill that grew out of this collaboration: *"Keep a Changelog records what changed. Keep the Why preserves why it changed."* Legacy code isn't only a test-coverage problem, it's a knowledge-loss problem — reasoning has to survive across sessions, agents, and contributors, not just the person who first wrote it down. Non-commercial, repo-native, with no infrastructure to run.
 
-The Suite is where this way of working gets proven, on production code with real users. Keep the Why is what it kept surfacing along the way.
+The UNICORN Binance Suite is where this collaboration proves itself. Keep the Why is what the collaboration discovered.
 
 ## UNICORN Binance Suite
 
